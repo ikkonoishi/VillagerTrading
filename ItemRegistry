@@ -1,0 +1,9 @@
+
+item = {}
+item.Emerald = "Emerald"
+item.CertusDust = "AppEng.Materials.QuartzDust.name"
+item.Silicon = "AppEng.Materials.Silicon.name"
+item.CertusCrystal = "AppEng.Materials.QuartzCrystal.name"
+item.IronHelmet = "Iron Helmet"
+item.Iron = "Iron Ingot"
+
